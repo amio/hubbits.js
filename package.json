@@ -1,0 +1,18 @@
+{
+  "name": "hubbits.js",
+  "version": "1.0.0",
+  "description": "Static generator whitch eats Github Issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.26.4",
+    "marked": "^0.3.5"
+  }
+}
