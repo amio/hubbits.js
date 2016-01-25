@@ -1,18 +1,27 @@
 {
   "name": "hubbits.js",
   "version": "1.0.0",
-  "description": "Static generator whitch eats Github Issues.",
+  "description": "Transform Github issues to static blog.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amio/hubbits.js"
+  },
   "keywords": [
-    "generator"
+    "generator",
+    "static",
+    "site",
+    "blog",
+    "github",
+    "issue"
   ],
-  "author": "Amio <amio.cn@gmail.com>",
-  "license": "MIT",
   "dependencies": {
     "fs-extra": "^0.26.4",
     "marked": "^0.3.5"
-  }
+  },
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT"
 }
