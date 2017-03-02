@@ -19,7 +19,7 @@
     "issue"
   ],
   "dependencies": {
-    "fs-extra": "^0.26.4",
+    "fs-extra": "^2.0.0",
     "marked": "^0.3.5",
     "mustache": "^2.2.1"
   },
